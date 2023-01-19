@@ -4,7 +4,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
- - 🧑‍💻 &nbsp; tive meu primeiro contato com desenvolvimento aos 12 anos, quando ficava facinado com os jogos e queria fazer
+ - 🧑‍💻 &nbsp; tive meu primeiro contato com desenvolvimento aos 12 anos, quando ficava fascinado com os jogos e queria fazer
 um do meu estilo. nunca consegui ir muito alem de um chao com um personagem passeando em cima dele. algum tempo depois
 eu descobri que eu conseguia criar sites usando codigos e me divertia bastante criando coisas simples e bem insignificantes
 porem pra mim era um maximo, me sentia um hacker kkkkk. os computadores sempre fizeram parte da minha vida
