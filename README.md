@@ -4,15 +4,27 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
- - 🧑‍💻 &nbsp; tive meu primeiro contato com desenvolvimento aos 12 anos, quando ficava fascinado com os jogos e queria fazer
-um do meu estilo. nunca consegui ir muito alem de um chao com um personagem passeando em cima dele. algum tempo depois
-eu descobri que eu conseguia criar sites usando codigos e me divertia bastante criando coisas simples e bem insignificantes
-porem pra mim era um maximo, me sentia um hacker kkkkk. os computadores sempre fizeram parte da minha vida
-e a programação está sendo uma area que me mantem mais proximo da minha paixão, A tecnologia.
 
-- 🚀 &nbsp;
-atualmente tenho como foco principal da minha carreira na área de desenvolvimento web(Front-End) Utilizando JS(React) como meu
-foco principal. Porem sempre mantenho os estudos em outras Tech's e nas que ja tenho conhecimento como Node, JS, Mongo entre outras...
+💻 Minha jornada na área de TI começou com 
+curiosidade e agora se transformou em uma paixão
+pelo desenvolvimento.
+
+🎨 Adoro unir minha criatividade ao poder do 
+código para construir interfaces esteticamente 
+agradáveis e funcionais.
+
+🌐 Estou constantemente explorando novas
+ tecnologias e ferramentas para aprimorar minhas 
+habilidades e expandir meu conhecimento.
+
+🚀 Estou sempre em busca de novos desafios e 
+oportunidades para crescer profissionalmente.
+
+🔍 Se você quiser acompanhar meus projetos e 
+ver o que estou criando, este aqui é o lugar certo.
+
+Vamos juntos tornar o mundo digital mais
+bonito e funcional! ✨
 
 <h2> #️⃣ &nbsp; social</h2>
 
@@ -32,6 +44,7 @@ foco principal. Porem sempre mantenho os estudos em outras Tech's e nas que ja t
   ![HTML](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
   ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+   ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp; ![boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
  
  
@@ -52,9 +65,10 @@ foco principal. Porem sempre mantenho os estudos em outras Tech's e nas que ja t
 
  ### 📚 &nbsp;Studying in this moment:
 
-  ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
  
  
